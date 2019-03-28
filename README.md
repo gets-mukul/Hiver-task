@@ -15,7 +15,7 @@ python version : 2.7+
 ## Running the tests
 1. Open the terminal/cmd.
 2. Got to the directory containing all .py files.
-3. Run command given below.
+3. Runninng command given below will give the result for all the test-cases.
 
 `$ python3 Main.py `
 
