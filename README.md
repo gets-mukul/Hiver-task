@@ -13,8 +13,11 @@ You need to have venv folder inside  Hiver-task folder.
 python version : 2.7+
 
 ## Running the tests
-1. Got to Main.py class by clicking the run icon on top bar.
-2. Question paper will generated for  all the given test cases.
+1. Open the terminal/cmd.
+2. Got to the directory containing all .py files.
+3. Run command given below.
+
+`$ python3 Main.py `
 
 ### Adding new test-case
 1. Open the test_case.txt file.
